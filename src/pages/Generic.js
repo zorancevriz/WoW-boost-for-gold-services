@@ -1,78 +1,62 @@
 import React from 'react';
 
 import Layout from '../components/Layout';
-import pic4 from '../assets/images/pic04.jpg';
-import pic5 from '../assets/images/pic05.jpg';
+import pic4 from '../assets/images/pic09.jpg';
+import pic5 from '../assets/images/pic10.jpg';
 
 const IndexPage = () => (
   <Layout fullMenu>
     <section id="wrapper">
       <header>
         <div className="inner">
-          <h2>Generic</h2>
-          <p>Phasellus non pulvinar erat. Fusce tincidunt nisl eget ipsum.</p>
+          <h2>About me</h2>
+          <p>Hello i am ex wow player,self taught web developer</p>
         </div>
       </header>
 
       <div className="wrapper">
         <div className="inner">
-          <h3 className="major">Lorem ipsum dolor</h3>
+          <h3 className="major">Skills that i have</h3>
           <p>
-            Morbi mattis mi consectetur tortor elementum, varius pellentesque
-            velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac
-            scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis
-            lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo.
-            Maecenas sagittis felis ac sagittis semper. Curabitur purus leo
-            donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada
-            fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo.
-            Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci
-            fringilla tincidunt. Aliquam eleifend ligula non velit accumsan
-            cursus. Etiam ut gravida sapien.
+            Hello my name is Zoran Cevriz,ex wow player,now bartender and future web developer.
+            Last year i decide to learn some IT skills.Hahahahahhaha i was clueless i wanted all to know.
+            No way.U know it your self right.So after reading some books and some guides finally
+            i got it.I would like master React JS and Gatsby JS.Later maybe some backend who knows.
           </p>
 
-          <p>
-            Vestibulum ultrices risus velit, sit amet blandit massa auctor sit
-            amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis
-            id vel diam. Praesent sit amet posuere risus, eu faucibus lectus.
-            Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam.
-            Proin nec commodo, vel scelerisque nisi scelerisque. Suspendisse id
-            quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor
-            consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec
-            felis elementum varius.
-          </p>
+          
 
-          <h3 className="major">Vitae phasellus</h3>
+          <h3 className="major">My goals</h3>
           <p>
-            Cras mattis ante fermentum, malesuada neque vitae, eleifend erat.
-            Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis
-            egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus
-            in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.
+            I set my self a gola.By end of this year i will found entry lvl frontend job or some kinda
+            internship.I am also very huge fan of digital marketing.SEO,SERP,backlinks,organic traffic and keyword reaserch are kinda 
+            hard but very very interested
           </p>
 
           <section className="features">
             <article>
-              <a href="/#" className="image">
-                <img src={pic4} alt="" />
+              <a href="https://reactjs.org/" className="image">
+                <img src={pic4} alt="React JS" />
               </a>
-              <h3 className="major">Sed feugiat lorem</h3>
+              <h3 className="major">React JS</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
+                A JavaScript library for building user interfaces
+                React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
               </p>
-              <a href="/#" className="special">
+              <a href="https://reactjs.org/" className="special">
                 Learn more
               </a>
             </article>
             <article>
-              <a href="/#" className="image">
-                <img src={pic5} alt="" />
+              <a href="https://www.gatsbyjs.com/" className="image">
+                <img src={pic5} alt="Gatsby" />
               </a>
-              <h3 className="major">Nisl placerat</h3>
+              <h3 className="major">Gatsby</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
+                The static dynamic site generator for dynamic web developers.
+                Gatsby provides development teams an open source frontend framework for creating dynamic, optimized websites and a cloud platform for delivering them on a blazing fast edge network.
               </p>
-              <a href="/#" className="special">
+              <a href="https://www.gatsbyjs.com/" className="special">
                 Learn more
               </a>
             </article>

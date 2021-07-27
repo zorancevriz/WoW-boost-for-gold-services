@@ -27,20 +27,17 @@ const IndexPage = () => (
       <section id="one" className="wrapper spotlight style1">
         <div className="inner">
           <a href="/#" className="image">
-            <img src={pic1} alt="" />
+            <img src={pic1} alt="Wow boost for gold service" />
           </a>
           <div className="content">
-            <h2 className="major">Magna arcu feugiat</h2>
+            <h2 className="major">Wow boost for gold service</h2>
             <p>
-              Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras
-              turpis ante, nullam sit amet turpis non, sollicitudin posuere
-              urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim
-              dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla
-              cursus.
+              How many times u look for some <strong>WOW boost for gold service</strong> and only u can 
+              found is boost for real money.No ty,for that u get banned.My goal will be to found very safe and trusty wow boost for gold services.
+              So far i found two and below u can check it.
             </p>
-            <a href="/#" className="special">
-              Learn more
-            </a>
+
+            
           </div>
         </div>
       </section>
@@ -48,19 +45,15 @@ const IndexPage = () => (
       <section id="two" className="wrapper alt spotlight style2">
         <div className="inner">
           <a href="/#" className="image">
-            <img src={pic2} alt="" />
+            <img src={pic2} alt="Wow boost for gold service" />
           </a>
           <div className="content">
-            <h2 className="major">Tempus adipiscing</h2>
+            <h2 className="major"><a href="https://twitter.com/starlight_boost">Starlight Boosting</a></h2>
             <p>
-              Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras
-              turpis ante, nullam sit amet turpis non, sollicitudin posuere
-              urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim
-              dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla
-              cursus.
+              We are strictly a <strong>WOW boost for gold service</strong> community. We ask that you understand that we will not take any payment via Paypal, or other payments that are against Blizzard Terms of Use (TOU).
             </p>
-            <a href="/#" className="special">
-              Learn more
+            <a href="https://discord.gg/slb" className="special">
+              Discord
             </a>
           </div>
         </div>
@@ -69,87 +62,86 @@ const IndexPage = () => (
       <section id="three" className="wrapper spotlight style3">
         <div className="inner">
           <a href="/#" className="image">
-            <img src={pic3} alt="" />
+            <img src={pic3} alt="Wow boost for gold service" />
           </a>
           <div className="content">
-            <h2 className="major">Nullam dignissim</h2>
+            <h2 className="major"><a href="">Icecrown Boosting Community</a></h2>
+            
             <p>
-              Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras
-              turpis ante, nullam sit amet turpis non, sollicitudin posuere
-              urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim
-              dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla
-              cursus.
+              Icecrown is one of the largest EU <strong>WOW boost for gold service</strong> communities in WoW, housing some of the best players & Guilds in the world.
+
             </p>
-            <a href="/#" className="special">
-              Learn more
+            <a href="discord.gg/icecrown" className="special">
+               Discord
             </a>
           </div>
         </div>
       </section>
 
+      
+
+      
+
       <section id="four" className="wrapper alt style1">
         <div className="inner">
-          <h2 className="major">Vitae phasellus</h2>
+          <h2 className="major">World First race</h2>
           <p>
-            Cras mattis ante fermentum, malesuada neque vitae, eleifend erat.
-            Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis
-            egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus
-            in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.
+            World of Warcraft: Shadowlands has released their next major raid, The Sanctum of Domination. The Mythic Raid opened the floodgates earlier today, Tuesday, July 13th. The Sanctum of Domination features ten bosses, including the fan favorites of Kel’Thuzad and Sylvanas Windrunner. Before the raid’s launch, Blizzard promoted both the race for World First and the organizations participating.
           </p>
           <section className="features">
             <article>
-              <a href="/#" className="image">
-                <img src={pic4} alt="" />
+              <a href="https://echoesports.gg/home" className="image">
+                <img src={pic4} alt="WoW Echo" />
               </a>
-              <h3 className="major">Sed feugiat lorem</h3>
+              
+              <h3 className="major">Echo</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
+                Echo Esports is a professional gaming organisation founded in 2020 by the most successful World of Warcraft players of all time.
               </p>
-              <a href="/#" className="special">
+              <a href="https://echoesports.gg/home" className="special">
                 Learn more
               </a>
             </article>
             <article>
-              <a href="/#" className="image">
-                <img src={pic5} alt="" />
+              <a href="http://www.limit-guild.com/" className="image">
+                <img src={pic5} alt="Complexity Limit" />
               </a>
-              <h3 className="major">Nisl placerat</h3>
+              <h3 className="major">Complexity Limit</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
+                
+Complexity Gaming is one of North America's longest standing and most successful esports organizations, now owned by Jerry Jones of the Dallas Cowboys and investor John Goff.
               </p>
-              <a href="/#" className="special">
+              <a href="http://www.limit-guild.com/" className="special">
                 Learn more
               </a>
             </article>
             <article>
-              <a href="/#" className="image">
-                <img src={pic6} alt="" />
+              <a href="https://pieces.gg" className="image">
+                <img src={pic6} alt="Pieces wow guild" />
               </a>
-              <h3 className="major">Ante fermentum</h3>
+              <h3 className="major">Pieces</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
+                Pieces is one of the most well-known World of Warcraft world first raiding guilds. 2020 marks our 10 year anniversary as a guild and in those years we have worked hard towards becoming a home to some of the most competitive players across World of Warcraft.
               </p>
-              <a href="/#" className="special">
+              <a href="https://pieces.gg" className="special">
                 Learn more
               </a>
             </article>
             <article>
-              <a href="/#" className="image">
-                <img src={pic7} alt="" />
+              <a href="https://twitter.com/bigdumbgaming" className="image">
+                <img src={pic7} alt="Big Dumb Gaming wow" />
               </a>
-              <h3 className="major">Fusce consequat</h3>
+              <h3 className="major">BDGG</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
+               Leading off the pack is Big Dumb Gaming. Quite contrary to their name, this organization has had a major presence in the PvE World of Warcraft esports scene. BDGG is also partnered with Golden Guardians, who have have massive influence over the recent PvP WoW side.
               </p>
-              <a href="/#" className="special">
+              <a href="https://twitter.com/bigdumbgaming" className="special">
+              
                 Learn more
               </a>
             </article>
           </section>
+            <p>The two rivals had been neck in neck over the last couple of days, each moving ever closer to the magical 45% mark that would conclude the Mythic Sylvanas Windrunner encounter. Limit’s best attempt was less than 1% off before they ended their raid and gave Echo the chance to seal their win.</p>
           <ul className="actions">
             <li>
               <a href="/#" className="button">

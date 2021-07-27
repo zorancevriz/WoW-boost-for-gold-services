@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter SolidState', // <title>
+  siteTitle: 'WoW Boost For Gold Service', // <title>
   manifestName: 'SolidState',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -8,8 +8,8 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-solidstate/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Anubhav Srivastava',
-  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
+  heading: 'Wow boost for gold service',
+  subHeading: 'arena boost for gold,pvp boost for gold,pve boost for gold ',
   // social
   socialLinks: [
     {
@@ -17,22 +17,7 @@ module.exports = {
       name: 'Github',
       url: 'https://github.com/anubhavsrivastava',
     },
-    {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
-    },
-    {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
-    },
-    {
-      icon: 'fa-envelope-o',
-      name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
-    },
+   
   ],
-  phone: '000-00000',
-  address: '305 Del Sol, Sunnyvale, CA',
+
 };
