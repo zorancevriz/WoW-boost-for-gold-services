@@ -71,8 +71,8 @@ const IndexPage = () => (
               Icecrown is one of the largest EU <strong>WOW boost for gold service</strong> communities in WoW, housing some of the best players & Guilds in the world.
 
             </p>
-            <a href="discord.gg/icecrown" className="special">
-               Discord
+             <a href="https://t.co/xiiSiWokd2?amp=1" className="special">
+              Discord
             </a>
           </div>
         </div>
