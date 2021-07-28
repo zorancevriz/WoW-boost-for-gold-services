@@ -61,11 +61,11 @@ const IndexPage = () => (
 
       <section id="three" className="wrapper spotlight style3">
         <div className="inner">
-          <a href="/#" className="image">
+          <a href="https://twitter.com/wowicecrown?lang=hr" className="image">
             <img src={pic3} alt="Wow boost for gold service" />
           </a>
           <div className="content">
-            <h2 className="major"><a href="">Icecrown Boosting Community</a></h2>
+            <h2 className="major"><a href="https://twitter.com/wowicecrown?lang=hr">Icecrown Boosting Community</a></h2>
             
             <p>
               Icecrown is one of the largest EU <strong>WOW boost for gold service</strong> communities in WoW, housing some of the best players & Guilds in the world.
