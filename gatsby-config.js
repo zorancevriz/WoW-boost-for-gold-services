@@ -33,6 +33,14 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://wowboostforgoldservicesmain.gatsbyjs.io/',
+        sitemap: 'https://wowboostforgoldservicesmain.gatsbyjs.io/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
+    },
 
       
 
