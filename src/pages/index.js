@@ -99,7 +99,7 @@ const IndexPage = () => (
                 Echo Esports is a professional gaming organisation founded in 2020 by the most successful World of Warcraft players of all time.
               </p>
               <a href="https://echoesports.gg/home" className="special">
-                Learn more
+                echoesports.gg
               </a>
             </article>
             <article>
@@ -112,7 +112,7 @@ const IndexPage = () => (
 Complexity Gaming is one of North America's longest standing and most successful esports organizations, now owned by Jerry Jones of the Dallas Cowboys and investor John Goff.
               </p>
               <a href="http://www.limit-guild.com/" className="special">
-                Learn more
+               limit-guild.com
               </a>
             </article>
             <article>
@@ -124,7 +124,7 @@ Complexity Gaming is one of North America's longest standing and most successful
                 Pieces is one of the most well-known World of Warcraft world first raiding guilds. 2020 marks our 10 year anniversary as a guild and in those years we have worked hard towards becoming a home to some of the most competitive players across World of Warcraft.
               </p>
               <a href="https://pieces.gg" className="special">
-                Learn more
+                pieces.gg
               </a>
             </article>
             <article>
@@ -137,7 +137,7 @@ Complexity Gaming is one of North America's longest standing and most successful
               </p>
               <a href="https://twitter.com/bigdumbgaming" className="special">
               
-                Learn more
+                bigdumbgaming
               </a>
             </article>
           </section>
