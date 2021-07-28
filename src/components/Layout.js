@@ -46,8 +46,8 @@ class Layout extends Component {
             <Helmet
               title={data.site.siteMetadata.title}
               meta={[
-                { name: 'description', content: 'Solid State' },
-                { name: 'keywords', content: 'site, web' },
+                { name: 'description', content: 'Wow boost for gold services,only for gold not real money' },
+                { name: 'keywords', content: 'Wow boost for gold,wow arena boost for gold,wow pvp boost for gold,wow rbg boost for gold' },
               ]}
             >
               <html lang="en" />
