@@ -3,6 +3,7 @@ const config = require('./config');
 module.exports = {
   pathPrefix: config.pathPrefix,
   siteMetadata: {
+    siteUrl: `https://wowboostforgoldservicesmain.gatsbyjs.io/`,
     title: config.siteTitle,
   },
  plugins: [
@@ -41,6 +42,8 @@ module.exports = {
         policy: [{ userAgent: '*', allow: '/' }]
       }
     },
+    `gatsby-plugin-sitemap`,
+
 
       
 
