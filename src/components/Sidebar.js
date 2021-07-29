@@ -7,7 +7,7 @@ export default function SideBar({ fullMenu }) {
     <>
       <header id="header" className={`${fullMenu ? '' : 'alt'}`}>
         <h1>
-          <Link to="/">WOW Boost For Gold Service</Link>
+          <Link to="/">how and where get boost For Gold </Link>
         </h1>
 
         <nav>
