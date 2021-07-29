@@ -46,8 +46,8 @@ class Layout extends Component {
             <Helmet
               title={data.site.siteMetadata.title}
               meta={[
-                { name: 'description', content: 'Wow boost for gold services,only for gold not real money' },
-                { name: 'keywords', content: 'Wow boost for gold,wow arena boost for gold,wow pvp boost for gold,wow rbg boost for gold' },
+                { name: 'description', content: 'How and where u can get boost for wolrd of warcraft gold.Included discord chanels and websites,happy gaming' },
+                { name: 'keywords', content: 'how to get Wow boost for gold,how to wow arena boost for gold,how  pvp boost for gold,wow rbg boost for gold,' },
               ]}
             >
               <html lang="en" />

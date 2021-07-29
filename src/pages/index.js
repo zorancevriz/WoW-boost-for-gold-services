@@ -27,12 +27,12 @@ const IndexPage = () => (
       <section id="one" className="wrapper spotlight style1">
         <div className="inner">
           <a href="/#" className="image">
-            <img src={pic1} alt="Wow boost for gold service" />
+            <img src={pic1} alt="Wow boost for gold " />
           </a>
           <div className="content">
-            <h2 className="major">Wow boost for gold service</h2>
+            <h2 className="major"> How and where to get wow boost for gold</h2>
             <p>
-              How many times u look for some <strong>WOW boost for gold service</strong> and only u can 
+              How many times u look for some <strong>WOW boost for gold </strong> and only u can 
               found is boost for real money.No ty,for that u get banned.My goal will be to found very safe and trusty wow boost for gold services.
               So far i found two and below u can check it.
             </p>
@@ -45,12 +45,12 @@ const IndexPage = () => (
       <section id="two" className="wrapper alt spotlight style2">
         <div className="inner">
           <a href="/#" className="image">
-            <img src={pic2} alt="Wow boost for gold service" />
+            <img src={pic2} alt="Wow boost for gold " />
           </a>
           <div className="content">
-            <h2 className="major"><a href="https://twitter.com/starlight_boost">Starlight wow  boost for gold</a></h2>
+            <h2 className="major"><a href="https://twitter.com/starlight_boost">How and where to get wow boost for gold with Starlight</a></h2>
             <p>
-              We are strictly a <strong>WOW boost for gold service</strong> community. We ask that you understand that we will not take any payment via Paypal, or other payments that are against Blizzard Terms of Use (TOU).
+              We are strictly a <strong>WOW boost for gold </strong> community. We ask that you understand that we will not take any payment via Paypal, or other payments that are against Blizzard Terms of Use (TOU).
             </p>
             <a href="https://discord.gg/slb" className="special">
               Discord
@@ -65,10 +65,10 @@ const IndexPage = () => (
             <img src={pic3} alt="Wow boost for gold service" />
           </a>
           <div className="content">
-            <h2 className="major"><a href="https://twitter.com/wowicecrown?lang=hr">Icecrown wow boost for gold</a></h2>
+            <h2 className="major"><a href="https://twitter.com/wowicecrown?lang=hr">How and where to get wow boost for gold with Icecrown wow</a></h2>
             
             <p>
-              Icecrown is one of the largest EU <strong>WOW boost for gold service</strong> communities in WoW, housing some of the best players & Guilds in the world.
+              Icecrown is one of the largest EU <strong>WOW boost for gold </strong> communities in WoW, housing some of the best players & Guilds in the world.
 
             </p>
              <a href="https://t.co/xiiSiWokd2?amp=1" className="special">
