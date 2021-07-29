@@ -3,7 +3,7 @@ const config = require('./config');
 module.exports = {
   pathPrefix: config.pathPrefix,
   siteMetadata: {
-    siteUrl: `https://wowboostforgoldservicesmain.gatsbyjs.io/`,
+    siteUrl: `https://wowboostforgoldservicesmain.gatsbyjs.io`,
     title: config.siteTitle,
   },
  plugins: [
@@ -34,15 +34,17 @@ module.exports = {
         },
       },
     },
+        `gatsby-plugin-sitemap`,
+
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
         host: 'https://wowboostforgoldservicesmain.gatsbyjs.io/',
-        sitemap: 'https://wowboostforgoldservicesmain.gatsbyjs.io/sitemap.xml',
+        
         policy: [{ userAgent: '*', allow: '/' }]
       }
     },
-    `gatsby-plugin-sitemap`,
+    
 
 
       
