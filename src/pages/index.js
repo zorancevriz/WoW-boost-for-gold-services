@@ -48,7 +48,7 @@ const IndexPage = () => (
             <img src={pic2} alt="Wow boost for gold service" />
           </a>
           <div className="content">
-            <h2 className="major"><a href="https://twitter.com/starlight_boost">Starlight Boosting</a></h2>
+            <h2 className="major"><a href="https://twitter.com/starlight_boost">Starlight wow  boost gor gold</a></h2>
             <p>
               We are strictly a <strong>WOW boost for gold service</strong> community. We ask that you understand that we will not take any payment via Paypal, or other payments that are against Blizzard Terms of Use (TOU).
             </p>
@@ -65,7 +65,7 @@ const IndexPage = () => (
             <img src={pic3} alt="Wow boost for gold service" />
           </a>
           <div className="content">
-            <h2 className="major"><a href="https://twitter.com/wowicecrown?lang=hr">Icecrown Boosting Community</a></h2>
+            <h2 className="major"><a href="https://twitter.com/wowicecrown?lang=hr">Icecrown wow boost for gold</a></h2>
             
             <p>
               Icecrown is one of the largest EU <strong>WOW boost for gold service</strong> communities in WoW, housing some of the best players & Guilds in the world.
@@ -84,7 +84,7 @@ const IndexPage = () => (
 
       <section id="four" className="wrapper alt style1">
         <div className="inner">
-          <h2 className="major">World First race</h2>
+          <h2 className="major">World First race not for wow gold ofc</h2>
           <p>
             World of Warcraft: Shadowlands has released their next major raid, The Sanctum of Domination. The Mythic Raid opened the floodgates earlier today, Tuesday, July 13th. The Sanctum of Domination features ten bosses, including the fan favorites of Kel’Thuzad and Sylvanas Windrunner. Before the raid’s launch, Blizzard promoted both the race for World First and the organizations participating.
           </p>
