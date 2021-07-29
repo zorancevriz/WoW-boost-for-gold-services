@@ -48,7 +48,7 @@ const IndexPage = () => (
             <img src={pic2} alt="Wow boost for gold service" />
           </a>
           <div className="content">
-            <h2 className="major"><a href="https://twitter.com/starlight_boost">Starlight wow  boost gor gold</a></h2>
+            <h2 className="major"><a href="https://twitter.com/starlight_boost">Starlight wow  boost for gold</a></h2>
             <p>
               We are strictly a <strong>WOW boost for gold service</strong> community. We ask that you understand that we will not take any payment via Paypal, or other payments that are against Blizzard Terms of Use (TOU).
             </p>
