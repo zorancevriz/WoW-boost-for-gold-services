@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'how and where to get wow boost for gold', // <title>
+  siteTitle: 'shadowlands wow pvp boost for gold', // <title>
   manifestName: 'how and where to get boost for gold',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-solidstate/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'how and where to get wow boost for gold ',
+  heading: 'shadowlands wow pvp  boost for gold ',
   subHeading: 'arena boost for gold,pvp boost for gold,pve boost for gold ,World of Warcraft Race to World First',
   // social
   socialLinks: [
