@@ -27,7 +27,7 @@ const IndexPage = () => (
       <section id="one" className="wrapper spotlight style1">
         <div className="inner">
           <a href="/#" className="image">
-            <img src={pic1} alt="Wow boost for gold " />
+            <img src={pic1} alt="Wow pvp boost for gold " />
           </a>
           <div className="content">
             <h2 className="major"> How and where to get wow boost for gold</h2>
@@ -45,7 +45,7 @@ const IndexPage = () => (
       <section id="two" className="wrapper alt spotlight style2">
         <div className="inner">
           <a href="/#" className="image">
-            <img src={pic2} alt="Wow boost for gold " />
+            <img src={pic2} alt="Wow mythic boost for gold " />
           </a>
           <div className="content">
             <h2 className="major"><a href="https://twitter.com/starlight_boost">How and where to get wow boost for gold with Starlight</a></h2>
@@ -62,7 +62,7 @@ const IndexPage = () => (
       <section id="three" className="wrapper spotlight style3">
         <div className="inner">
           <a href="https://twitter.com/wowicecrown?lang=hr" className="image">
-            <img src={pic3} alt="Wow boost for gold service" />
+            <img src={pic3} alt="Wow pvp boost for gold" />
           </a>
           <div className="content">
             <h2 className="major"><a href="https://twitter.com/wowicecrown?lang=hr">How and where to get wow boost for gold with Icecrown wow</a></h2>
