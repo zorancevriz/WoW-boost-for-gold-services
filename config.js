@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'wow pvp boost for gold', // <title>
   manifestName: 'wow pvp boost for gold',
   manifestShortName: 'Landing', // max 12 characters
-  manifestStartUrl: '/',
+  manifestStartUrl: 'https://zorancevriz.github.io/WoW-boost-for-gold-services/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
@@ -15,7 +15,7 @@ module.exports = {
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/zorancevriz',
+      url: 'https://zorancevriz.github.io/WoW-boost-for-gold-services/',
     },
    
   ],
