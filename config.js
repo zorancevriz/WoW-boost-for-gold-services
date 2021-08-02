@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'wow pvp boost for gold', // <title>
   manifestName: 'wow pvp boost for gold',
   manifestShortName: 'Landing', // max 12 characters
-  manifestStartUrl: '/',
+  manifestStartUrl: 'https://zorancevriz.github.io',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
