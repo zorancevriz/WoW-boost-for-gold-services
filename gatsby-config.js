@@ -1,7 +1,8 @@
 const config = require('./config');
 
 module.exports = {
-  pathPrefix: config.pathPrefix,
+  start_url: config.pathPrefix || config.manifestStartUrl,
+
   siteMetadata: {
     siteUrl: `https://wowboostforgoldservicesmain.gatsbyjs.io`,
     title: config.siteTitle,
